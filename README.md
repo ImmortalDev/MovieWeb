@@ -3,8 +3,8 @@ The purpose of this project is to practice our knowledge about web
  **nowadays we studying at Norton university**
 
 #### Currently we have 2 members
-- Som Rithprohos [Linkedin] (https://www.linkedin.com/in/som-rithprohos/)
-- Pov Vichit
+- Som Rithprohos - [Linkedin] (https://www.linkedin.com/in/som-rithprohos/)
+- Pov Vichit - [Facebook] (www.facebook.com)
 
 #### This project we focus on web language both front-end and back-end like
 - HTML
